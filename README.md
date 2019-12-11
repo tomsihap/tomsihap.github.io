@@ -1,10 +1,11 @@
 # Thomas SIHAPANYA
+## 5+ years XP into web development with PHP/Laravel and Javascript/Node.js.
+
 - **Location :** Lyon, France. Remote only
 - **Availability :** Sure, toss me an email!
 - **Email :** contact@tomsihap.fr
 
 
-> 5+ years XP into web development with PHP/Laravel and Javascript/Node.js.
 
 > Passionné d'informatique et de développement depuis toujours, je développe sur des projets de tout type :
 >
